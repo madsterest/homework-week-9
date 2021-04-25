@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(255, 208, 202);
+}
+header {
+  background-color: orangered;
+  border-bottom: 15px solid salmon;
+  color: white;
+}
+a {
+  color: white;
+}
+h2 {
+  text-align: center;
+  font-size: 150%;
+  margin-top: 5%;
+}
