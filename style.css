@@ -42,3 +42,8 @@ footer {
   display: inline;
   padding-left: 10%;
 }
+.card-projects {
+  margin: 0 auto;
+  text-align: center;
+  padding-top: 5%;
+}
