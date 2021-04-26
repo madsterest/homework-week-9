@@ -1,5 +1,6 @@
 body {
   background-color: rgb(255, 208, 202);
+  font-family: "Quicksand", sans-serif;
 }
 header {
   background-color: salmon;
@@ -9,6 +10,7 @@ header {
 a {
   color: white;
 }
+
 h2 {
   font-size: 120%;
   padding-top: 5%;
@@ -33,6 +35,8 @@ footer {
   border-top: 15px solid orangered;
   padding-bottom: 2%;
   padding-top: 1%;
+  color: white;
+  font-size: 95%;
 }
 .contact-info {
   list-style: none;
